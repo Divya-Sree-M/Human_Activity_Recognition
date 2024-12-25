@@ -1,9 +1,9 @@
 # Human_Activity_Recognition
 In this project, Human Activity Recognition isdone based on the data collected from 30 subjetcs.
-
 The acivities obsered are 6 different activities.
-
 They are laying, sitting, standing, walking, walking-downstairs, walking-upstairs.
+
+The train dataset is a very huge dataset which is present in kaggle website under the dataset name Human_Activity_Recognition
 ## The Table of Contents
 
 1.Importing libraries
