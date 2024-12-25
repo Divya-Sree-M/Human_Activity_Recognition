@@ -1,5 +1,17 @@
 # Human_Activity_Recognition
-In this project, Human Activity Recognition isdone based on the data collected from 30 subjetcs.\nThe acivities obsered are 6 different activities.
+In this project, Human Activity Recognition isdone based on the data collected from 30 subjetcs.
+
+The acivities obsered are 6 different activities.
 
 They are laying, sitting, standing, walking, walking-downstairs, walking-upstairs.
 ## The Table of Contents
+
+1.Importing libraries
+
+2.Reading the data
+
+3.Data Wrangling
+
+4.EDA
+
+5.ML Models
